@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ibnu Cipta Ramadhan
+**Computer Vision · IoT · AI**
+
+Computer Vision researcher and engineer · Background in IoT hardware integration and edge AI deployment on embedded platforms.
+
+---
+
+## Focus Areas
+`Object Detection` `Transfer Learning` `LiDAR Perception` `IoT Integration` `GPS/Fleet Systems` `Edge Deployment` `Jetson · Docker`
+
+---
+
+## Projects
+
+**[3D Object Detection with LiDAR](#)**
+Research · Point cloud-based 3D detection pipeline
+`Python` `PyTorch` `LiDAR`
+
+**[YOLOv11 Transfer Learning](#)**
+Custom dataset training · Fine-tuned detection pipeline
+`Python` `YOLO` `OpenCV`
+
+**[Object Detection on ROS](#)**
+Real-time detection node · Jetson deployment
+`ROS 2` `Docker` `Jetson`
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/ibnu-cipta-ramadhan-5b3662177/) · [Portfolio](https://ibdhan.github.io) · [Email](mailto:ibnucr@gmail.com)
