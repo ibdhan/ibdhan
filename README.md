@@ -22,6 +22,10 @@ Computer Vision researcher and engineer · Background in IoT hardware integratio
 
 ---
 
+[LinkedIn](https://www.linkedin.com/in/ibnu-cipta-ramadhan-5b3662177/) · [Portfolio](https://ibdhan.github.io) · [Email](mailto:ibnucr@gmail.com)
+
+---
+
 ## Focus Areas
 `Object Detection` `Transfer Learning` `LiDAR Perception` `IoT Integration` `GPS/Fleet Systems` `Edge Deployment` `Jetson · Docker`
 
@@ -40,7 +44,3 @@ Custom dataset training · Fine-tuned detection pipeline
 **[Object Detection on ROS](#)**
 Real-time detection node · Jetson deployment
 `ROS 2` `Docker` `Jetson`
-
----
-
-[LinkedIn](https://www.linkedin.com/in/ibnu-cipta-ramadhan-5b3662177/) · [Portfolio](https://ibdhan.github.io) · [Email](mailto:ibnucr@gmail.com)
